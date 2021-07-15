@@ -1,0 +1,483 @@
+{
+	"result": true,
+	"code": 200,
+	"error": "",
+	"value": {
+		"piedatas": [{
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 27
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 54
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 4
+			}],
+			"name": "山西省",
+			"x": 112.541,
+			"y": 37.8697
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 13
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 15
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "河南省",
+			"x": 113.62,
+			"y": 34.7471
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 17
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 23
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 1
+			}],
+			"name": "陕西省",
+			"x": 108.938,
+			"y": 34.2677
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 30
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 64
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 8
+			}],
+			"name": "甘肃省",
+			"x": 103.833,
+			"y": 36.0613
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 15
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 7
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "湖北省",
+			"x": 114.297,
+			"y": 30.5972
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 14
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 12
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 1
+			}],
+			"name": "山东省",
+			"x": 116.987,
+			"y": 36.6657
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 62
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 112
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 11
+			}],
+			"name": "四川省",
+			"x": 104.059,
+			"y": 30.6756
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 7
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 13
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "安徽省",
+			"x": 117.281,
+			"y": 31.8676
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 5
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 6
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "北京市",
+			"x": 116.4,
+			"y": 39.905
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 11
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 39
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 2
+			}],
+			"name": "青海省",
+			"x": 101.777,
+			"y": 36.6176
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 14
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 24
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 1
+			}],
+			"name": "内蒙古自治区",
+			"x": 111.673,
+			"y": 40.8217
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 11
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 37
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 3
+			}],
+			"name": "宁夏回族自治区",
+			"x": 106.282,
+			"y": 38.465
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 60
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 210
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 7
+			}],
+			"name": "云南省",
+			"x": 102.715,
+			"y": 25.0432
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 2
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 3
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "吉林省",
+			"x": 125.316,
+			"y": 43.8903
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 4
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 42
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 6
+			}],
+			"name": "西藏自治区",
+			"x": 91.1197,
+			"y": 29.6646
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 6
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 2
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "湖南省",
+			"x": 112.947,
+			"y": 28.1999
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 4
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 2
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "贵州省",
+			"x": 106.709,
+			"y": 26.5772
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 6
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 6
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "江西省",
+			"x": 115.854,
+			"y": 28.683
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 1
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 3
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "天津市",
+			"x": 117.205,
+			"y": 39.1187
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 3
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 92
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 10
+			}],
+			"name": "新疆维吾尔自治区",
+			"x": 87.6046,
+			"y": 43.802
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 3
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 3
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "重庆市",
+			"x": 106.546,
+			"y": 29.566
+		}, {
+			"data": [{
+				"color": "00FF00",
+				"name": "地震 0~3",
+				"value": 0
+			}, {
+				"color": "#FFFF00",
+				"name": "地震 3~5",
+				"value": 1
+			}, {
+				"color": "#FF7D00",
+				"name": "地震 5~7",
+				"value": 4
+			}, {
+				"color": "#FF0000",
+				"name": "地震 >7",
+				"value": 0
+			}],
+			"name": "黑龙江省",
+			"x": 126.68,
+			"y": 45.7406
+		}],
+		"tuli": [{
+			"color": "00FF00",
+			"text": "0~3"
+		}, {
+			"color": "#FFFF00",
+			"text": "3~5"
+		}, {
+			"color": "#FF7D00",
+			"text": "5~7"
+		}, {
+			"color": "#FF0000",
+			"text": ">7"
+		}]
+	}
+}
